@@ -12,9 +12,8 @@ LinkedIn: https://www.linkedin.com/in/samyak-jhaveri/
  Most adpet with: Python, <br>
  Generous amount of experience with: Dart, SQL, LaTeX, Arduino C, Java, C/C++
 
- **Tools Frameworks**: <br>
- AWS Braket, VSCode, Repl.It, DWave Ocean SDK, Obsidian, Notion, TensorFlow, Flutter, UNIX, Linux, Keras, Scikit-Learn, Spacetime Global-object-Tracking Framework, Pandas, numpy, matplotlib, dask, xgboost, lightgbm, ast, pyqubo, NetworkX, nltk, BeautifulSoup, Android Studio, Jupyter
-
+**Tools Frameworks**: <br>
+AWS Braket, VSCode, Repl.It, DWave Ocean SDK, Obsidian, Notion, TensorFlow, Flutter, UNIX, Linux, Keras, Scikit-Learn, Spacetime Global-object-Tracking Framework, Pandas, numpy, matplotlib, dask, xgboost, lightgbm, ast, pyqubo, NetworkX, nltk, BeautifulSoup, Android Studio, Jupyter
 
 
 **Soft-Skills**: Clear Communication, Active Listening, Collaboration, Teaching, Systematic Brainstorming 
@@ -25,7 +24,11 @@ LinkedIn: https://www.linkedin.com/in/samyak-jhaveri/
 - Side note: I really enjoy and have a fine taste for Coffee, Soundtracks, Meditation, and Marvel Movies! :)
 - When I am not working, you can find me learning about research in other fields like neuroscience, physics, material science and so forth. Besides that, enjoy cooking, hiking, adventure sports, badminton, reading, or just plainly sitting in a quiet place that soothes me.
 
-
+### Coursework:
+- **SWE 211 Introduction to Software Engineering** Fall 2021 Quarter, Prof. David Redmiles
+- **INF Information Retreival** Winter 2021-2022, Prof. Pramit Choudhary
+- **SWE 212 Analysis of Programming Languages** Spring 2022, Prof. Crista Lopes
+- ** **
 
 <!---
 SamyakJhaveri/SamyakJhaveri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
