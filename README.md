@@ -26,7 +26,7 @@ When I am not working, you can find me learning about research in other fields l
 
 ### Coursework:
 - **SWE 211 Introduction to Software Engineering** Fall 2021 Quarter, Prof. David Redmiles
-- **INF Information Retreival** Winter 2021-2022, Prof. Pramit Choudhary
+- **SWE 225 Information Retreival** Winter 2021-2022, Prof. Pramit Choudhary
 - **SWE 212 Analysis of Programming Languages** Spring 2022, Prof. Crista Lopes
 - ** **
 
