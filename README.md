@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @SamyakJhaveri. A Software Engnineering Ph.D. Student 👨‍🎓 at Univeristy of California Irvine 💻
 - 🔎 I’m interested in **Software Engineering**, **Quantum Software**, **Quantum Computing**, **Machine Learning**. 
 - ⚛️ Exploring **Software Aspects of Quantum Computing** to improve software development in and for quantum computing environments
-- 🌱 I’m currently exploring how to make better software tools and programming models for using with quantum computers
+- 🌱 I’m currently exploring how to make better software tools and programming models for using with quantum computers, and also how to use quantum copmuters for computational biology applications like genomcis research
 - 🤝 I’m looking to collaborate on research papers, open-source projects, and industry R&D projects!
 - 📫 How to reach me: <br> Email: samyakjhaveri2799@gmail.com, OR <br> 
 LinkedIn: https://www.linkedin.com/in/samyak-jhaveri/
